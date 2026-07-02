@@ -24,8 +24,7 @@ Se realizaron validaciones para asegurar la calidad del dataset:
 
 ### Conteo de valores nulos: identificando variables con posibles vacíos en country, gender, tenure, etc.
 
-
-![alt text](Capturas/valores nulos.png)
+![alt text](Capturas/valores_nulos.png)
 
 Estos pasos garantizan una base confiable para el análisis posterior.
 
