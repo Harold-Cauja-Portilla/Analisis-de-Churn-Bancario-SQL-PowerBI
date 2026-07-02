@@ -34,7 +34,8 @@ Se elaboraron consultas para obtener los indicadores generales del comportamient
 
 ## Tasa general de abandono (Churn_rate)
 
-![Tasa de abandono general](./Capturas/tasa_abandono.png)
+
+![alt text](/Capturas/tasa_abandono.png)
 
 
 
